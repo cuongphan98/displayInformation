@@ -1,0 +1,3 @@
+print("Phan Quang Cường")
+print("1998")
+print("Nam")
